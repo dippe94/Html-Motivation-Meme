@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+
+.poster {
+    color: #c4edff;
+    text-align: center;
+    font-family: Libre Baskerville, serif ;
+    margin-top: 100px;
+    margin-left: 25%;
+    width: 50%;
+}
+
+.motivation-meme {
+    border: 5px solid white;
+    width: 100%;
+}
